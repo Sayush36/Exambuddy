@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+venv/
+backend/venv/
+frontend/node_modules/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Outputs
+dist/
+build/
+.next/
+out/
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+
+# App Specific
+exambuddy.db
+debug_output.txt
+uploads/
+.agent/
+client_secret_945522190956-7jukipdtq6teb5268bmprn94inha2mq6.apps.googleusercontent.com.json
+client_secret_945522190956-7jukipdtq6teb5268bmprn94inha2mq6.apps.googleusercontent.com.json
+client_secret_945522190956-7jukipdtq6teb5268bmprn94inha2mq6.apps.googleusercontent.com.json

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+python-jose[cryptography]
+python-multipart
+bcrypt
+email-validator
+supabase
+razorpay
+python-dotenv
